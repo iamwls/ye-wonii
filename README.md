@@ -6,4 +6,4 @@
 - Notion 링크: <https://www.notion.so/Yewon-Jin-aed133b53b144e0f97e719e4de02568b>
 - Email: <ksw05020@naver.com>
 
-![Yewon's github stats](https://github-readme-stats.vercel.app/api?ye-wonii=anuraghazra&count_private=true)
+[![Yewon's github stats](https://github-readme-stats.vercel.app/api?ye-wonii=anuraghazra & count_private = true)](https://github.com/anuraghazra/github-readme-stats)
