@@ -3,7 +3,8 @@
 
 ## Contact
 
-- Notion 링크: <https://www.notion.so/Yewon-Jin-aed133b53b144e0f97e719e4de02568b>
+- Notion: <https://www.notion.so/Yewon-Jin-aed133b53b144e0f97e719e4de02568b>
+- Design Portfolio: <https://www.behance.net/gallery/115845181/2021-Portfolio>
 - Email: <ksw05020@naver.com>
 
 ![Yewon's github stats](https://github-readme-stats.vercel.app/api?username=ye-wonii&count_private=true)
