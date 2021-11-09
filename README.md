@@ -11,7 +11,7 @@
 ### :inbox_tray: Contact :inbox_tray:
 
 ####  :arrow_forward: Notion: <https://www.notion.so/Yewon-Jin-aed133b53b144e0f97e719e4de02568b>
-####  :arrow_forward: Study Notion: <https://opalescent-scene-89b.notion.site/Yewon-s-STUDY-NOTION-91b3068c364a4349a05fa49ee3cef674>
+####  :arrow_forward: Study Notion: <https://bit.ly/3o6Ikns>
 ####  :arrow_forward: Design Portfolio: <https://www.behance.net/gallery/115845181/2021-Portfolio>
 ####  :arrow_forward: Email: <ksw05020@naver.com>
 
